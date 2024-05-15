@@ -1,4 +1,4 @@
-#VisaoComputacional-Entendendo o Universo Visual da IA 
+CRIANDO UM EBOOK COM CHATGPT-DESAFIO PROPOSTO PELA DIO.IO
 
 **README - eBook de Visão Computacional**
 
