@@ -23,6 +23,8 @@ Este repositório contém o conteúdo do eBook de Visão Computacional, que ofer
 https://create.microsoft.com/pt-br/features/ai-image-generator
 • PowerPoint (Editor de texto, Design)
 • Canva (Editor de texto, Design)
+• Ray.So https://www-cupcom-com-br.cdn.ampproject.org/v/s/www.cupcom.com.br/marketing-digital/transformar-codigo-em-imagem-confira-3-opcoes.html/amp?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#Rayso
+ - para transformar códigos em img
 
 
 Esperamos que este eBook seja útil e informativo para você! Se tiver alguma dúvida ou comentário, não hesite em abrir uma issue ou enviar um pull request.
